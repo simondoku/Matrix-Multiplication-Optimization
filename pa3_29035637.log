@@ -1,0 +1,65 @@
+/blue/csci301/simondoku/PA3
+c0709a-s8.ufhpc
+Mon Apr 15 20:47:28 EDT 2024
+Number of Cores: 4
+Compiling Python program without threads...
+Matrix size: 10, Execution time: 0.00013375282287597656 seconds
+Matrix size: 50, Execution time: 0.014852285385131836 seconds
+Matrix size: 100, Execution time: 0.11687135696411133 seconds
+Matrix size: 500, Execution time: 14.633759021759033 seconds
+Executing Python program with threads...
+Matrix size: 10, Number of threads: 1, Execution time: 0.00023746490478515625 seconds
+Matrix size: 10, Number of threads: 2, Execution time: 0.0003705024719238281 seconds
+Matrix size: 10, Number of threads: 4, Execution time: 0.0004963874816894531 seconds
+Matrix size: 10, Number of threads: 8, Execution time: 0.0008032321929931641 seconds
+Matrix size: 50, Number of threads: 1, Execution time: 0.016043424606323242 seconds
+Matrix size: 50, Number of threads: 2, Execution time: 0.018462419509887695 seconds
+Matrix size: 50, Number of threads: 4, Execution time: 0.015661001205444336 seconds
+Matrix size: 50, Number of threads: 8, Execution time: 0.016687631607055664 seconds
+Matrix size: 100, Number of threads: 1, Execution time: 0.12199616432189941 seconds
+Matrix size: 100, Number of threads: 2, Execution time: 0.1282796859741211 seconds
+Matrix size: 100, Number of threads: 4, Execution time: 0.12705445289611816 seconds
+Matrix size: 100, Number of threads: 8, Execution time: 0.12929439544677734 seconds
+Matrix size: 500, Number of threads: 1, Execution time: 14.494018077850342 seconds
+Matrix size: 500, Number of threads: 2, Execution time: 15.319303750991821 seconds
+Matrix size: 500, Number of threads: 4, Execution time: 15.596790313720703 seconds
+Matrix size: 500, Number of threads: 8, Execution time: 14.961077451705933 seconds
+Executing C program without threads
+Matrix size: 10, Execution time: 0.00 seconds
+Matrix size: 50, Execution time: 0.00 seconds
+Matrix size: 100, Execution time: 0.00 seconds
+Matrix size: 500, Execution time: 0.40 seconds
+Executing C program with POSIX threads
+Matrix size: 10, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 10, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 10, Number of threads: 4, Execution time: 0.00 seconds
+Matrix size: 10, Number of threads: 8, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 4, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 8, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 4, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 8, Execution time: 0.00 seconds
+Matrix size: 500, Number of threads: 1, Execution time: 0.41 seconds
+Matrix size: 500, Number of threads: 2, Execution time: 0.26 seconds
+Matrix size: 500, Number of threads: 4, Execution time: 0.19 seconds
+Matrix size: 500, Number of threads: 8, Execution time: 0.16 seconds
+Executing C program with OpenMP...
+Matrix size: 10, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 10, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 10, Number of threads: 4, Execution time: 0.01 seconds
+Matrix size: 10, Number of threads: 8, Execution time: 0.02 seconds
+Matrix size: 50, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 50, Number of threads: 4, Execution time: 0.01 seconds
+Matrix size: 50, Number of threads: 8, Execution time: 0.02 seconds
+Matrix size: 100, Number of threads: 1, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 2, Execution time: 0.00 seconds
+Matrix size: 100, Number of threads: 4, Execution time: 0.03 seconds
+Matrix size: 100, Number of threads: 8, Execution time: 0.00 seconds
+Matrix size: 500, Number of threads: 1, Execution time: 0.40 seconds
+Matrix size: 500, Number of threads: 2, Execution time: 0.40 seconds
+Matrix size: 500, Number of threads: 4, Execution time: 0.43 seconds
+Matrix size: 500, Number of threads: 8, Execution time: 0.41 seconds

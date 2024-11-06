@@ -1,0 +1,52 @@
+5.2174389362335205
+3.775725841522217
+Total words: 5005
+Longest word: Helen-Elizabeth
+'eli' occurrences: 0
+'eli' search: ['Adelice', 'Adelina', 'Adelind', 'Adeline', 'Amelia', 'Amelie', 'Amelina', 'Ameline', 'Amelita', 'Angelia', 'Angelica', 'Angelika', 'Angelina', 'Angeline', 'Angelique', 'Angelita', 'Anneliese', 'Annelise', 'Ardelia', 'Ardelis', 'Aurelia', 'Aurelie', 'Aveline', 'Belia', 'Belicia', 'Belinda', 'Belita', 'Carmelia', 'Carmelina', 'Carmelita', 'Cecelia', 'Celia', 'Celie', 'Celina', 'Celinda', 'Celine', 'Celinka', 'Celisse', 'Cordelia', 'Cordelie', 'Cornelia', 'Delia', 'Delila', 'Delilah', 'Delinda', 'Dorelia', 'Edeline', 'Emelia', 'Emelina', 'Emeline', 'Emelita', 'Emmeline', 'Ethelin', 'Ethelind', 'Etheline', 'Evangelia', 'Evangelin', 'Evangelina', 'Evangeline', 'Evelina', 'Eveline', 'Felicdad', 'Felice', 'Felicia', 'Felicity', 'Felicle', 'Felipa', 'Felisha', 'Felita', 'Feliza', 'Fenelia', 'Fidelia', 'Fidelity', 'Fredelia', 'Helise', 'Isabelita', 'Jackquelin', 'Jackqueline', 'Jacquelin', 'Jacqueline', 'Jaquelin', 'Jocelin', 'Joceline', 'Joelie', 'Joscelin', 'Joycelin', 'Keelia', 'Kelila', 'Kikelia', 'Lelia', 'Madelin', 'Madelina', 'Madeline', 'Marcelia', 'Melicent', 'Melina', 'Melinda', 'Melinde', 'Melisa', 'Melisande', 'Melisandra', 'Melisenda', 'Melisent', 'Melissa', 'Melisse', 'Melita', 'Melitta', 'Michaelina', 'Michaeline', 'Michelina', 'Micheline', 'Miguelita', 'Nelia', 'Nelie', 'Novelia', 'Odelia', 'Odelinda', 'Ofelia', 'Ophelia', 'Ophelie', 'Orelia', 'Orelie', 'Othelia', 'Pamelina', 'Phelia', 'Rafaelia', 'Rafaelita', 'Roselia', 'Roselin', 'Roseline', 'Selia', 'Selie', 'Selina', 'Selinda', 'Seline', 'Shelia', 'Wendeline']
+Time: 22.45564913749695
+Total words: 5005
+Longest word: Helen-Elizabeth
+aboccurrences: 91
+ab search: ['Adelice', 'Adelina', 'Adelind', 'Adeline', 'Amelia', 'Amelie', 'Amelina', 'Ameline', 'Amelita', 'Angelia', 'Angelica', 'Angelika', 'Angelina', 'Angeline', 'Angelique', 'Angelita', 'Anneliese', 'Annelise', 'Ardelia', 'Ardelis', 'Aurelia', 'Aurelie', 'Aveline', 'Belia', 'Belicia', 'Belinda', 'Belita', 'Carmelia', 'Carmelina', 'Carmelita', 'Cecelia', 'Celia', 'Celie', 'Celina', 'Celinda', 'Celine', 'Celinka', 'Celisse', 'Cordelia', 'Cordelie', 'Cornelia', 'Delia', 'Delila', 'Delilah', 'Delinda', 'Dorelia', 'Edeline', 'Emelia', 'Emelina', 'Emeline', 'Emelita', 'Emmeline', 'Ethelin', 'Ethelind', 'Etheline', 'Evangelia', 'Evangelin', 'Evangelina', 'Evangeline', 'Evelina', 'Eveline', 'Felicdad', 'Felice', 'Felicia', 'Felicity', 'Felicle', 'Felipa', 'Felisha', 'Felita', 'Feliza', 'Fenelia', 'Fidelia', 'Fidelity', 'Fredelia', 'Helise', 'Isabelita', 'Jackquelin', 'Jackqueline', 'Jacquelin', 'Jacqueline', 'Jaquelin', 'Jocelin', 'Joceline', 'Joelie', 'Joscelin', 'Joycelin', 'Keelia', 'Kelila', 'Kikelia', 'Lelia', 'Madelin', 'Madelina', 'Madeline', 'Marcelia', 'Melicent', 'Melina', 'Melinda', 'Melinde', 'Melisa', 'Melisande', 'Melisandra', 'Melisenda', 'Melisent', 'Melissa', 'Melisse', 'Melita', 'Melitta', 'Michaelina', 'Michaeline', 'Michelina', 'Micheline', 'Miguelita', 'Nelia', 'Nelie', 'Novelia', 'Odelia', 'Odelinda', 'Ofelia', 'Ophelia', 'Ophelie', 'Orelia', 'Orelie', 'Othelia', 'Pamelina', 'Phelia', 'Rafaelia', 'Rafaelita', 'Roselia', 'Roselin', 'Roseline', 'Selia', 'Selie', 'Selina', 'Selinda', 'Seline', 'Shelia', 'Wendeline']
+Time: 13.194900035858154
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'sim': 0
+Search for 'sim': 0
+TIME: 1.9067368507385254
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'ant': 0
+Search for 'ant': 17
+TIME: 1.5772290229797363
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'Zoorah': 0
+Search for 'Zoorah': 0
+TIME: 1.6108899116516113
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'abigail': 0
+Search for 'abigail': 0
+TIME: 1.583395004272461
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'Zora': 1
+Search for 'Zora': 3
+TIME: 1.6165521144866943
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'zora': 0
+Search for 'zora': 0
+TIME: 1.9949548244476318
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'Zora': 1
+Search for 'Zora': 3
+TIME: 1.7895112037658691
+Word Count: 5004
+Longest Word: Helen-Elizabeth
+Occurrences of 'ora': 0
+Search for 'ora': 68
+TIME: 2.303269863128662

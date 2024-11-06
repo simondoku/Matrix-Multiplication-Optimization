@@ -1,0 +1,19 @@
+Python without Threads:
+
+The execution times for Python without using threads increase significantly as the matrix size grows. This indicates that Python's single-threaded execution is not efficient for large matrix operations.
+
+Python with Threads:
+
+Introducing threads in Python reduces execution times, especially for smaller matrix sizes. However, for larger matrices (500), the improvements are less significant, suggesting that Python's Global Interpreter Lock (GIL) may limit true parallelism(according to Stack Overflow).
+
+C without Threads:
+
+The C implementation without threads shows very low execution times across all matrix sizes, indicating the efficiency of compiled languages like C for such computations.
+
+C with POSIX Threads:
+
+Utilizing POSIX threads in C results in almost negligible execution times, regardless of the number of threads or matrix size. This suggests highly efficient parallel execution in C using native threading libraries.
+
+C with OpenMP:
+
+OpenMP shows similar efficiency to POSIX threads in this scenario. Execution times remain consistently low across different thread counts and matrix sizes.

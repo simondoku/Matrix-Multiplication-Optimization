@@ -1,0 +1,44 @@
+Script started on Tue Feb 27 23:55:52 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                            ]2;simondoku@Simons-MacBook-Pro:~/Desktop/Stetson University/Computer Science/Computer Science/Operating Systems/Project2]1;..tems/Project2[0m[27m[24m[J(base) [01;32m➜  [36mProject2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscriptclear exit ./test.sh[9Dchmod +x test.sh[?1l>[?2004l
+]2;chmod +x test.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                                                            ]2;simondoku@Simons-MacBook-Pro:~/Desktop/Stetson University/Computer Science/Computer Science/Operating Systems/Project2]1;..tems/Project2[0m[27m[24m[J(base) [01;32m➜  [36mProject2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hchmod +x test.sh[16Dscript          [10Dclear exit ./test.sh[?1l>[?2004l
+]2;./test.sh]1;./test.shCompiling Python program without threads...
+Enter the size of the square matrix: 10
+Execution time: 0.00036406517028808594 seconds
+Executing Python program with threads...
+Enter the size of the square matrix: 10
+Execution time with threads: 0.0014150142669677734 seconds
+Executing C program without threads
+Enter size of the square matrix: 10
+Result:
+185 135 153 133 72 141 255 166 125 213 
+164 138 64 142 126 152 183 126 140 146 
+179 135 64 173 153 165 242 134 156 221 
+183 120 74 125 134 137 202 134 115 180 
+215 209 69 272 216 218 277 172 225 255 
+162 211 105 170 133 172 256 254 181 207 
+141 175 91 106 86 188 204 151 180 145 
+222 174 88 202 180 220 281 161 183 245 
+184 225 152 163 126 258 335 252 180 290 
+273 208 158 222 154 219 343 209 196 254 
+Time taken: 0.000010 seconds
+Executing C program with POSIX threads
+Enter size of the square matrix: 10
+Result:
+247 266 109 154 111 100 141 176 137 182 
+216 308 240 200 147 116 178 290 218 245 
+192 254 170 115 157 155 139 241 204 185 
+126 212 135 100 82 111 108 195 144 163 
+323 418 285 253 215 184 261 398 286 329 
+272 303 180 214 162 120 178 273 185 228 
+220 341 234 203 162 185 182 334 272 274 
+217 280 167 168 86 152 112 237 159 168 
+203 289 228 124 168 180 206 284 246 218 
+247 339 191 147 150 174 206 273 260 238 
+Time taken: 0.000286 seconds
+clang: [0;1;31merror: [0m[1munsupported option '-fopenmp'[0m
+clang: [0;1;31merror: [0m[1munsupported option '-fopenmp'[0m
+Executing C program with OpenMP...
+./test.sh: line 30: ./matrix_mult_c_openmp: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                            ]2;simondoku@Simons-MacBook-Pro:~/Desktop/Stetson University/Computer Science/Computer Science/Operating Systems/Project2]1;..tems/Project2[0m[27m[24m[J(base) [01;31m➜  [36mProject2[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on Tue Feb 27 23:56:31 2024

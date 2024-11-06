@@ -1,0 +1,5 @@
+plot_data(ax1, python_no_threads_data, python_no_threads_times, "Python without threads")
+# plot_data(ax2, python_threads_data, python_threads_times, "Python with threads")
+# plot_data(ax3, c_no_threads_data, c_no_threads_times, "C without threads")
+# plot_data(ax4, c_threads_data, c_threads_times, "C with threads")
+# plot_data(ax5, c_openmp_data, c_openmp_times, "C with OpenMP")
